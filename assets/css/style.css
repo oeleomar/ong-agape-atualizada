@@ -237,6 +237,11 @@ h6,
   .navbar ul {
     display: none;
   }
+
+  .row-data {
+  min-width: 50%;
+}
+
 }
 
 .navbar-mobile {
